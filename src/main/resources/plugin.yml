@@ -1,0 +1,7 @@
+name: VanillaKnockbackPlus
+main: dev.spigotbypass.vanillakbplus.VanillaKnockbackPlus
+version: "1.0.0"
+api-version: 1.8
+description: Faithful vanilla 1.8 knockback for Spigot (default PvP)
+author: spigotbypass
+commands: {}
